@@ -1,4 +1,4 @@
-# Appendix-to---A-Scalable-Solution-to-Multi-Stage-Strategic-Generation-Investment-Problems
+# Appendix-to-A-Scalable-Solution-to-Multi-Stage-Strategic-Generation-Investment-Problems
 
 This repository contains the supplementary material for the paper "A Scalable Solution to Multi-Stage Strategic Generation Investment Problems" to be submitted to the Power Systems Computation Conference (PSCC 2018). This is joint work by Vladimir Dvorkin, Jalal Kazempour, Pierre Pinson form the Department of Electrical Engineering of Technical University of Denmark and Luis Baringo from the School of Industrial Engineering of Universidad de Castilla La Mancha.
 
